@@ -7,4 +7,5 @@ personal project web page for serius enterprise.
 
 
 - Serius enterprise.
-.........
+
+la empresa colombiana que empezara a proporcionar series de television por medio de esta pagina web.
