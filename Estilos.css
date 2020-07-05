@@ -1,0 +1,118 @@
+*{
+   margin: 0;
+   padding: 0;
+   font-family: cursive;
+}
+
+
+
+
+header{
+text-align: center;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 40px;
+color:black;
+background-size: cover;
+height: 600px;
+}
+
+hr{
+    border-color: white;
+    width: 1000px;
+}
+[title]{
+    font-size: 100px;
+}
+#simple{
+    background-color:  rgba(235, 230, 230, 0.822) ;
+}
+
+
+button{
+    background-color: transparent;
+    padding: 20px 15px;
+    border: 1px solid white;
+    border-radius: 8px;
+    color:beige;
+    font-size: 15px;
+}
+section{
+   
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+  
+    
+}
+.contenedor{
+    margin: 0 auto;
+    width: 900px;
+    padding: 70px 0px;
+    
+}
+
+
+.fases{
+    width: 1000px;
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+    padding: 120px 0px;
+    font-size: 17px;
+    
+}
+
+
+.Caja-servicio {
+    text-align: center;
+    padding: 20px 40px;
+    text-align: center;
+  
+ 
+}
+.Caja-galeria{
+    width: 33.3333%;
+    padding: 15px 15px;
+}
+.fila1{
+    display: flex;
+}
+.fila2{
+    display: flex;
+}
+
+.Caja-galeria img{
+    display: block;
+    padding: 0 25px;
+    width: 100%;
+}
+.ipu {
+    width: 100%;
+    padding: 12px;
+    background-color: transparent;
+    border: 1px solid white;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.last{
+    text-align: center;
+
+}
+.redes-sociales a{
+    background-color: rgb(41, 57, 180);
+    width: 40px;
+    height: 40px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+.redes-sociales a i{
+    color: beige;
+}
+footer{
+    padding: 70px 0;
+}
